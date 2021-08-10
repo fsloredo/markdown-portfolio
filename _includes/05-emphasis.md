@@ -6,6 +6,6 @@ _Handsome_
 
 __Inteligent__
 
-_And we can *combine* both_
+**And we can _combine_ both**
 
 ✨
